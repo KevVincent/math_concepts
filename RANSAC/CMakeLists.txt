@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+project(RANSACLib)
+add_executable(ransac src/ransac.cpp)
+target_include_directories(ransac PRIVATE include)
