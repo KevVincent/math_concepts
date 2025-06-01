@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/kevin/personal/Alg_implementations/RANSAC/build",
-  "command": "/usr/lib/ccache/g++  -I/home/kevin/personal/Alg_implementations/RANSAC/include -std=gnu++17 -o CMakeFiles/ransac.dir/src/ransac.cpp.o -c /home/kevin/personal/Alg_implementations/RANSAC/src/ransac.cpp",
-  "file": "/home/kevin/personal/Alg_implementations/RANSAC/src/ransac.cpp",
-  "output": "CMakeFiles/ransac.dir/src/ransac.cpp.o"
-}
-]

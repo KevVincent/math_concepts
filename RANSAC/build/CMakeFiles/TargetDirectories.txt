@@ -1,3 +1,0 @@
-/home/kevin/personal/Alg_implementations/RANSAC/build/CMakeFiles/ransac.dir
-/home/kevin/personal/Alg_implementations/RANSAC/build/CMakeFiles/edit_cache.dir
-/home/kevin/personal/Alg_implementations/RANSAC/build/CMakeFiles/rebuild_cache.dir
