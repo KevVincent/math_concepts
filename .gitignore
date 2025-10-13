@@ -1,0 +1,65 @@
+# default .gitignore file for ipa320 repositories
+# master file can be found in https://github.com/ipa320/care-o-bot/blob/indigo_dev/.gitignore
+
+build/
+bin/
+lib/
+install/
+log/
+.cache/
+# generated docs
+doc/*
+!doc/src/
+!doc/src/*
+*.dox
+*.wikidoc
+
+# eclipse
+.project
+.cproject
+
+# qcreator
+qtcreator-*
+*.user
+*.autosave
+
+# Emacs
+.#*
+
+# VI/VIM
+*.swp
+
+# python files
+*.pcd
+*.pyc
+*.pco
+
+# mypy
+*.mypy_cache
+
+# temporary files
+*~
+
+# vscode
+*.vscode
+
+# merge conflict files
+*.orig
+*BACKUP*
+*BASE*
+*LOCAL*
+*REMOTE*
+
+# Catkin custom files
+CATKIN_IGNORE
+
+# clangd files
+compile_commands.json
+.cache
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
